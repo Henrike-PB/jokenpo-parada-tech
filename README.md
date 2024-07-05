@@ -68,3 +68,6 @@ vitoria[player] == maquina:
 ```
 
 > Nesse caso, nós vencemos!
+
+
+<img src="https://i.ytimg.com/vi/rNwtBS3Qby4/maxresdefault.jpg">
